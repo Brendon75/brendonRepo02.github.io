@@ -1,0 +1,13 @@
+body { 
+    Background: rgb(162, 200,162);
+    font-family: Arial, Helvetica, sans-serif;
+  }
+  h1 {  
+    background: rgb(134, 77, 77);
+    text-align: centers;
+
+  }
+  .about {  
+    background: blue;
+  }
+  
